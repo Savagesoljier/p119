@@ -1,0 +1,46 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rebeccapurple;
+}
+
+.headingDiv {
+    float: none;
+    background: snow;
+    padding: 10px;
+    border-radius: 20px;
+    color: steelblue;
+    box-shadow: 5px 5px 5px blue;
+}
+
+.headingDiv2 {
+    font-size: 18px;
+}
+
+.resultPTag {
+    box-shadow: 5px 5px 5px blue;
+    font-size: 20px;
+}
+
+.copyRightFooter {
+    position: fixed;
+    color: royalblue;
+    background-color: skyblue;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+}
+
+canvas {
+    border: 5px solid red;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px slateblue;
+    margin-top: 150px;
+}
